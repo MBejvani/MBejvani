@@ -9,5 +9,5 @@ MBejvani/MBejvani is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Analytical Signal
-![Analytical Signal](HS.png | width=100)
+### Analytical Signal
+![Analytical Signal](HS.png | width=50)
