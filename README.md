@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 ### Analytical Signal
 
-![Analytical Signal](HS.png=250*250)
+![Analytical Signal](HS.png=250x250)
