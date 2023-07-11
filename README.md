@@ -10,14 +10,13 @@ MBejvani/MBejvani is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Coding accomplishments
-•	Computer programming accomplishments:
-	Random and coherent noise suppression of seismic data and seismic sections. (MATLAB)
-	Diverse spectral decomposition methods and seismic attributes (MATLAB & Python)
-	All conventional stages of seismic data processing (MATLAB & Seismic Unix)
-	Acoustic and elastic Reverse time migration (RTM) imaging (MATLAB & Madagascar)
-	2D acoustic and elastic wave propagation simulation in both time and frequency domain using a finite difference scheme (MATLAB & Madagascar)
-	Acoustic Full-waveform inversion in both time and frequency domain (MATLAB & Madagascar)
+## Some coding accomplishments
+*	Random and coherent noise suppression of seismic data and seismic sections.(MATLAB)
+*	Diverse spectral decomposition methods and seismic attributes.(MATLAB & Python)
+*	All conventional stages of seismic data processing.(MATLAB & Seismic Unix)
+*	Acoustic and elastic Reverse time migration (RTM) imaging.(MATLAB & Madagascar)
+*	2D acoustic and elastic wave propagation simulation in both time and frequency domain using a finite difference scheme.(MATLAB & Madagascar)
+*	Acoustic Full-waveform inversion in both time and frequency domain.(MATLAB & Madagascar)
 
 ### Analytical Signal
 
