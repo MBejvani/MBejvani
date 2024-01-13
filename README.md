@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 ### A sample code
 Here is a sample MATLAB code named AnalyticalTrace.m that gives the analytical form of a typical seismic trace. In mathematics and signal processing, an analytic signal is a complex-valued function that has no negative frequency components. The real and imaginary parts of an analytic signal are real-valued functions related to each other by the Hilbert transform. The below figure is a 3D form of an analytical trace with its both real and imaginary parts.
 
-![Analytical Signal](HS.png)
+![Analytical Signal](HS.png = 250x250)
