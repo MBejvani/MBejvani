@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Mohammad Bejvani</h1>h1>
+<h1>👋 Hi, I’m Mohammad Bejvani</h1>
 
 <!--   my-icons -->
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
