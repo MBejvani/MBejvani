@@ -33,9 +33,6 @@
 <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
-
-
-
    <!--machine-learning-->
 ```mermaid
 graph TD;
@@ -47,8 +44,6 @@ graph TD;
     machine-learning-->Deployment;
    ```
    
- 
-
 <!---
 MBejvani/MBejvani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
