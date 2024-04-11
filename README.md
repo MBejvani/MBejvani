@@ -1,16 +1,15 @@
 <h1>👋 Hi, I’m Mohammad Bejvani</h1>h1>
 
 <!--   my-icons -->
-<p align="center">
-    ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-    ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-    ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;
-    [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) 
-    ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp;
-    ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp;  
-    ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp;
-    ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; 
-</p>
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;
+[![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) 
+![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp;  
+![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; 
+
 
 **- 📫 How to reach me**
 <p align="left">
