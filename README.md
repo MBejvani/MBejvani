@@ -3,6 +3,14 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadbejvani/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadbejvani@gmail.com)
 
+## Some coding accomplishments
+*	Random and coherent noise suppression of seismic data. (MATLAB)
+*	Diverse spectral decomposition methods and seismic attributes. (MATLAB & Python)
+*	All conventional stages of seismic data processing. (MATLAB & Seismic Unix)
+*	Acoustic and elastic Reverse time migration (RTM) imaging. (MATLAB & Madagascar)
+*	2D acoustic and elastic wave propagation simulation in both time and frequency domain using a finite difference scheme. (MATLAB & Madagascar)
+*	Acoustic Full-waveform inversion in both time and frequency domain. (MATLAB & Madagascar)
+  
 ## Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,13 +31,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Some coding accomplishments
-*	Random and coherent noise suppression of seismic data. (MATLAB)
-*	Diverse spectral decomposition methods and seismic attributes. (MATLAB & Python)
-*	All conventional stages of seismic data processing. (MATLAB & Seismic Unix)
-*	Acoustic and elastic Reverse time migration (RTM) imaging. (MATLAB & Madagascar)
-*	2D acoustic and elastic wave propagation simulation in both time and frequency domain using a finite difference scheme. (MATLAB & Madagascar)
-*	Acoustic Full-waveform inversion in both time and frequency domain. (MATLAB & Madagascar)
+
 
 ### A sample code
 Here is a sample MATLAB code named AnalyticalTrace.m that gives the analytical form of a typical seismic trace. In mathematics and signal processing, an analytic signal is a complex-valued function that has no negative frequency components. The real and imaginary parts of an analytic signal are real-valued functions related to each other by the Hilbert transform. The below figure is a 3D form of an analytical trace with its both real and imaginary parts.
