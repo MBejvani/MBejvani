@@ -3,6 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadbejvani/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadbejvani@gmail.com)
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="mohammadbejvani" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/mohammadbejvani?trk=profile-badge">Mohammad B.</a></div>
+              
 ## Some coding accomplishments
 *	Random and coherent noise suppression of seismic data. (MATLAB)
 *	Diverse spectral decomposition methods and seismic attributes. (MATLAB & Python)
