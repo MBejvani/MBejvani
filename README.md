@@ -1,3 +1,4 @@
+# 💫 About Me:
 <h1>👋 Hi, I’m Mohammad Bejvani.</h1>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadbejvani/)
@@ -25,10 +26,6 @@
 Here is a sample MATLAB code named AnalyticalTrace.m that gives the analytical form of a typical seismic trace. In mathematics and signal processing, an analytic signal is a complex-valued function that has no negative frequency components. The real and imaginary parts of an analytic signal are real-valued functions related to each other by the Hilbert transform. The below figure is a 3D form of an analytical trace with its both real and imaginary parts.
 
 ![Analytical Signal](HS.png)
-
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
